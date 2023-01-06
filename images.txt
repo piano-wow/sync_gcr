@@ -54,10 +54,5 @@ kserve/sklearnserver:v0.8.0
 kserve/torchserve-kfs:0.5.3
 kserve/xgbserver:v0.8.0
 kubeflow/training-operator:v1-e1434f6
-mysql:8.0.29
 nvcr.io/nvidia/tritonserver:21.09-py3
-python:3.7
-quay.io/jetstack/cert-manager-cainjector:v1.5.0
-quay.io/jetstack/cert-manager-controller:v1.5.0
-quay.io/jetstack/cert-manager-webhook:v1.5.0
 tensorflow/serving:2.6.2
