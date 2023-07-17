@@ -1,1 +1,2 @@
-gcr.io/kasten-images/k10tools:5.5.4
+yourls:latest
+mysql:5.7
