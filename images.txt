@@ -1,2 +1,2 @@
-yourls:latest
+yourls:1.7.9
 mysql:5.7
